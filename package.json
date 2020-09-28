@@ -1,0 +1,25 @@
+{
+  "name": "wordguess",
+  "version": "1.0.0",
+  "description": "In this assignment, you will create a Word Guess command-line game using OOP. It is up to you whether you decide to use ES6 class syntax or constructor functions. For the purposes of these instructions, we will use `class` syntax.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicholasmcconnell/wordguess.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicholasmcconnell/wordguess/issues"
+  },
+  "homepage": "https://github.com/nicholasmcconnell/wordguess#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  },
+  "devDependencies": {
+    "jest": "^26.4.2"
+  }
+}
